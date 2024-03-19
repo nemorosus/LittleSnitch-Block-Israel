@@ -1,5 +1,5 @@
 # 🇮🇱🚫 Block Israel via LittleSnitch
-List of IP addresses to use for LittleSnitch to block Israel from making any connections.
+Over 8.8 of IP addresses from Israel to block with LittleSnitch and isolate yourself from making any connections directly with their servers.
 
 ![block-israel](https://github.com/nemorosus/LittleSnitch-Block-Israel/assets/6278519/dfdbf9a5-ad0f-4614-a227-9cf6d571b8af)
 
